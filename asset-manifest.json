@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-infinite-scroll/static/css/main.2448a4c4.css",
+    "main.js": "/react-infinite-scroll/static/js/main.ca0d5656.js",
+    "static/media/Spinner.gif": "/react-infinite-scroll/static/media/Spinner.b11c454f9353ba742aaf.gif",
+    "static/media/bg.jpg": "/react-infinite-scroll/static/media/bg.475c9ed60615838cd0ee.jpg",
+    "index.html": "/react-infinite-scroll/index.html",
+    "main.2448a4c4.css.map": "/react-infinite-scroll/static/css/main.2448a4c4.css.map",
+    "main.ca0d5656.js.map": "/react-infinite-scroll/static/js/main.ca0d5656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2448a4c4.css",
+    "static/js/main.ca0d5656.js"
+  ]
+}
