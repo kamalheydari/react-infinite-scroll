@@ -13,7 +13,7 @@ img {
 
 body {
   font-family: sans-serif;
-  background: url("../public/bg.jpg") no-repeat center fixed;
+  background: url("/public/bg.jpg") no-repeat center fixed;
   color: #dcdcdc;
 }
 .glass-box {
